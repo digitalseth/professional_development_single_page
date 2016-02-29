@@ -57,7 +57,7 @@ body {
 #headerwrapper {
   margin: 0 auto;
   text-align: center;
-  padding: 1em;
+  padding: 2.25em;
   background-color: rgb(5, 23, 26);
   color: rgb(255,150,0);
 }
@@ -65,15 +65,15 @@ body {
 h1 {
   font-size: 3.375em;
   font-family:sans-serif;
-  margin: 1em 0;
   font-family: 'Playball', cursive;
 }
 
 h2 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Playball', cursive;
   font-size: 2.25em;
-  margin: 1em 0;
   font-weight: bold;
+  text-align: center;
+  margin: .667em;
 }
 
 img {
@@ -90,7 +90,6 @@ p {
   font-family: 'Roboto', sans-serif;
   background-color: rgba(0,0,0,.1);
   padding: 1em;
-  
 }
 
 p:first-letter {
