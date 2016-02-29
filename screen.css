@@ -47,5 +47,17 @@ table {
 	border-spacing: 0;
 }
 
-*////////////////////////////*
+/* */ 
 
+h1 {
+  font-size: 2.25em;
+  font-family:sans-serif;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+#pagewrapper {
+  padding: 1em;
+}
