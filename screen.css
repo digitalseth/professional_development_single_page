@@ -58,6 +58,10 @@ h2 {
   font-size: 1.5em;
 }
 
+img {
+  max-width: 100%;
+}
+
 #pagewrapper {
   padding: 1em;
 }
