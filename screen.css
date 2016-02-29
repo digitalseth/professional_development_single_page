@@ -92,6 +92,10 @@ p {
   padding: 1em;
 }
 
+.boxshadow p {
+  box-shadow: 10px 10px rgba(0,0,0, .2);
+}
+
 p:first-letter {
   font-size: 2em;
 }
