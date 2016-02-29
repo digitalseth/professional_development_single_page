@@ -51,7 +51,7 @@ table {
 font-family: 'Roboto', sans-serif;
 
 body {
-  background-color: rgb(222,222,222);
+  background-color: rgb(200,200,200);
 }
 
 #headerwrapper {
@@ -84,9 +84,14 @@ img {
 }
 
 p {
-  margin-bottom: 2em;
+  margin-bottom: 5.063em;
   line-height: 1.5em;
   font-family: 'Roboto', sans-serif;
+  
+}
+
+p:first-letter {
+  font-size: 2em;
 }
 
 
