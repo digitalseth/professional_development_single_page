@@ -57,7 +57,7 @@ body {
   margin: 0 auto;
   text-align: center;
   padding: 1em;
-  background-color: rgb(25, 163, 255);
+  background-color: rgb(5, 23, 26);
   color: rgb(255,150,0);
 }
 
@@ -70,11 +70,14 @@ h1 {
 h2 {
   font-size: 1.5em;
   margin: 1em 0;
-  
+  font-weight: bold;
 }
 
 img {
   max-width: 100%;
+  border-radius: 1.5em;
+  border: 5px solid rgb(0, 106, 178);
+  box-sizing: content-box;
 }
 
 p {
