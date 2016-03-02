@@ -47,24 +47,25 @@ table {
 	border-spacing: 0;
 }
 
-/****************************/ 
-font-family: 'Roboto', sans-serif;
+/****************************/
 
 body {
-  background-color: rgb(200,200,200);
+  background-image: url(back.jpg);
+  font-family: 'Roboto', sans-serif;
 }
+
 
 #headerwrapper {
   margin: 0 auto;
   text-align: center;
   padding: 2.25em;
   background-color: rgb(5, 23, 26);
-  color: rgb(255,150,0);
+  color: rgb(0,148,229);
 }
 
 h1 {
   font-size: 3.375em;
-  font-family:sans-serif;
+  font-family: sans-serif;
   font-family: 'Playball', cursive;
 }
 
@@ -74,26 +75,27 @@ h2 {
   font-weight: bold;
   text-align: center;
   margin: .667em;
+  color: rgb(212,202,164);
 }
 
 img {
   width: 100%;
   border-radius: 1.5em;
-  border: 5px solid rgb(0, 106, 178);
+  border: 5px solid rgb(30,30,30);
   box-sizing: content-box;
 }
 
 p {
   margin-bottom: 5.063em;
   font-size: 1.3em;
-  line-height: 1.5em;
+  line-height: 1.5e;
   font-family: 'Roboto', sans-serif;
-  background-color: rgba(0,0,0,.1);
+  background-color: rgba(212,202,164,.7);;
   padding: 1em;
 }
 
 .boxshadow p {
-  box-shadow: 10px 10px rgba(0,0,0, .2);
+  box-shadow: 10px 10px rgba(0, 0, 0, .3);
 }
 
 p:first-letter {
