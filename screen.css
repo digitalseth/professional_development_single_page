@@ -75,7 +75,7 @@ h2 {
   font-weight: bold;
   text-align: center;
   margin: .667em;
-  color: rgb(212,202,164);
+  color: silver;
 }
 
 img {
@@ -90,7 +90,7 @@ p {
   font-size: 1.3em;
   line-height: 1.5e;
   font-family: 'Roboto', sans-serif;
-  background-color: rgba(212,202,164,.7);;
+  background-color: rgba(212,202,164,.7);
   padding: 1em;
 }
 
